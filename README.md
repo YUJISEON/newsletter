@@ -30,5 +30,5 @@
 - `newsletter-figma-guide.md` — 원고 md에서 피그마에서 시안 만드는 스킬
 - `.claude/skills/newsletter-manuscript-writer/assets/template.md` — 빈 템플릿
 
-마크다운 첫걸음 (기본 문법 + 프로젝트 규칙 정리본)
+## 마크다운 첫걸음 (기본 문법 + 프로젝트 규칙 정리본)
 [https://yujiseon.github.io/newsletter/guide.html] 에서 확인 가능합니다.
