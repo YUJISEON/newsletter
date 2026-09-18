@@ -1,9 +1,9 @@
 # newsletter-manuscript-writer 스킬
 
-이 폴더(`markdown/`)에는 뉴스레터 원고(.md)를 이 프로젝트 전용 포맷으로 작성해주는 Claude Code 스킬 `newsletter-manuscript-writer`가 설치되어 있습니다.
+이 폴더는 뉴스레터 원고(.md)를 이 프로젝트 전용 포맷으로 작성해주는 Claude Code 스킬 `newsletter-manuscript-writer`가 설치되어 있습니다.
 
 - 스킬 위치: `.claude/skills/newsletter-manuscript-writer/`
-- 적용 범위: 이 폴더(`markdown/`) 안에서 작업할 때만 자동으로 로드됩니다.
+- 적용 범위: 이 폴더 안에서 작업할 때만 자동으로 로드됩니다.
 
 ## 이 스킬이 하는 일
 
@@ -27,7 +27,7 @@
 관련 문서:
 - `guide.html` — 마크다운 첫걸음 (기본 문법 + 프로젝트 규칙 정리본)
 - `newsletter-manuscript-guide.md` — 위 가이드의 원본 마크다운
-- `sample.md` — 전체 type 키워드를 한 번씩 보여주는 예시 원고
+- `newsletter-figma-guide.md` — 원고 md에서 피그마에서 시안 만드는 스킬
 - `.claude/skills/newsletter-manuscript-writer/assets/template.md` — 빈 템플릿
 
 마크다운 첫걸음 (기본 문법 + 프로젝트 규칙 정리본)
